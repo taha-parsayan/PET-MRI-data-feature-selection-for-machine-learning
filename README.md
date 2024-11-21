@@ -2,9 +2,9 @@
 ![Static Badge](https://img.shields.io/badge/AI-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/PET%20/%20MRI-4CAF50)
 
-# Alzheimer’s Disease (AD) and Mild Cognitive Impairment (MCI) Analysis
+# PET-MRI-data-feature-selection-for-suppport-vector-machine
 
-This project contains code to perform statistical analysis and data visualization for comparing the features of subjects diagnosed with Alzheimer's Disease (AD), Mild Cognitive Impairment (MCI), and Normal Controls (NC). It includes image and medical features from brain scans, such as SUVR (Standardized Uptake Value Ratio) and volume measures for various brain regions of interest (ROIs).
+This project contains code to perform statistical analysis and data visualization for comparing the features of subjects diagnosed with Alzheimer's Disease (AD), Mild Cognitive Impairment (MCI), and Normal Controls (NC). It includes image and medical features from brain scans, such as SUVR (Standardized Uptake Value Ratio) and volume measures for various brain regions of interest (ROIs). The groups will not be classified as AD vs. MCI and MCI vs. NC using the support vector machine (SVM) model.
 
 ## Requirements
 
